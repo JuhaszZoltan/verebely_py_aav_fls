@@ -1,0 +1,20 @@
+A remény rabjai;1994;Dráma
+Forrest Gump;1994;Dráma, Vígjáték, Romantikus
+A sötét lovag;2008;Akció, Krimi, Dráma
+Ponyvaregény;1994;Krimi, Dráma
+Schindler listája;1993;Életrajzi, Dráma, Történelmi
+Harcosok klubja;1999;Dráma
+A keresztapa;1972;Krimi, Dráma
+A Keresztapa II;1974;Krimi, Dráma
+Csillagok háborúja;1977;Sci-Fi, Akció, Kaland
+Gyűrűk ura: A gyűrű szövetsége;2001;Kaland, Dráma, Fantasy
+Szárnyas fejvadász;1982;Sci-Fi, Thriller
+Vissza a jövőbe;1985;Kaland, Vígjáték, Sci-Fi
+Mátrix;1999;Akció, Sci-Fi
+Titanic;1997;Dráma, Romantikus
+Az oroszlánkirály;1994;Animáció, Kaland, Dráma
+Shrek;2001;Animáció, Kaland, Vígjáték
+Amerikai szépség;1999;Dráma
+A bárányok hallgatnak;1991;Krimi, Dráma, Thriller
+Ragyogás;1980;Dráma, Horror
+A nagy Lebowski;1998;Krimi, Vígjáték

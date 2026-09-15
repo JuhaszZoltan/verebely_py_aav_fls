@@ -1,0 +1,12 @@
+nev;nemzetiseg;csapat;rajtpozicio;idő (01:33:00+);pont
+Adrian Sutil;germany;Force India-Mercedes;16;22.119;0
+Fernando Alonso;spain;Lotus;10;20.663;4
+Giancarlo Fisichella;italy;Force India-Mercedes;15;23.158;0
+Jarno Trulli;italy;Toyota;19;17.384;6
+Jenson Button;great britain;Brawn-Mercedes;1;15.784;10
+Nick Heidfeld;germany;BMW-Sauber;9;22.869;0
+Nico Rosberg;germany;Williams-Renault;5;21.506;3
+Rubens Barrichello;brazil;Brawn-Mercedes;2;16.591;8
+Sebastien Bourdais;france;Toro Rosso-Ferrari;17;22.082;1
+Sebastien Buemi;switzerland;Toro Rosso-Ferrari;13;21.788;2
+Timo Glock;germany;Toyota;20;20.219;5

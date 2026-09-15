@@ -1,0 +1,16 @@
+1960;Olaszország;Róma;0;0;0
+1964;Japán;Tokió;0;0;0
+1968;Izrael;Tel Aviv;0;0;0
+1972;Németország;Heidelberg;0;0;1
+1976;Kanada;Torontó;1;0;1
+1980;Hollandia;Arnheim;0;0;0
+1984;Egyesült Államok;New York;13;11;5
+1988;Dél-Korea;Szöul;0;5;7
+1992;Spanyolország;Barcelona;4;3;4
+1996;Egyesült Államok;Atlanta;5;2;3
+2000;Ausztrália;Sydney;4;5;14
+2004;Görögország;Athén;1;8;10
+2008;Kína;Peking;1;0;5
+2012;Egyesült Királyság;London;2;6;6
+2016;Brazília;Rio de Janeiro;1;8;9
+2020;Japán;Tokió;7;5;4

@@ -1,0 +1,118 @@
+body { 
+	max-width: 1000px; 
+	margin: auto;
+	color: White; 
+}
+header { 
+	margin: 3px auto; 
+	box-shadow: 1px 1px 3px Black;
+	text-shadow: 1px 1px 1px Black; 
+  position: relative; 
+  width: 100%; 
+}
+header::before {    
+  content: "";
+	background-image: url("../img/horses.jpg"); 
+	background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.4; 
+}
+header div.header {
+	position: relative;
+	color: White; 
+}
+nav { 
+	position: sticky;
+  top: 0;
+	z-index: 100; 
+	box-shadow: 1px 1px 3px Black; 
+}
+nav a.nav-link {
+	color: White; 
+	font-weight: bold;
+}
+nav a.nav-link:hover {
+	background-color: LightGray; 
+	color: Black; 
+}
+h1, h2, h3 {
+	font-variant: small-caps; 
+}
+h2 {
+	margin-top: 20px;
+}
+h4 {
+	text-align: left;
+	color: Gray; 
+	font-family: Georgia;
+	font-style: italic; 
+}
+section { 
+	padding-bottom: 10px;
+	margin-top: 50px; 
+}
+section.text-bg-light h2 { 
+	border-bottom: 1px solid Gray;
+}
+section.text-bg-secondary h2 {
+  border-bottom: 1px solid LightGray;
+}
+div.section-item {
+	border-radius: 30px; 
+	border-style: ridge;
+	height: 100%;
+	background: url("../img/horse.png") no-repeat right bottom; 
+	background-size: 100px;
+}
+div.thumbnail {
+	text-align: center; 
+}
+img {
+	width: 300px;
+	max-width: 100%; 
+	height: 200px;
+	object-fit: cover;
+}
+a {
+	text-decoration: none;
+	color: Gray;
+}
+a:hover {
+	color: LightGray;
+}
+a img {
+	cursor: zoom-in;
+}
+.up {
+	text-align: right;
+	font-size: 150%;
+}
+.up a {
+	color: Gray;
+}
+.up a:hover {
+	color: LightGray;
+}
+
+
+@media screen and (min-width: 768px){
+	body {
+		text-align: justify;}
+	section img.img-left {
+		float: left;
+		margin-right: 15px;
+		margin-top: 10px; }
+	section img.img-right {
+		float: right;
+		margin-left: 15px;
+		margin-top: 10px; }
+}
+
+@media screen and (max-width: 576px) {
+	.info {
+		display: none;	}
+}
