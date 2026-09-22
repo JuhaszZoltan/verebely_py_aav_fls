@@ -1,0 +1,19 @@
+2011;Minecraft;Mojang;238
+2013;Grand Theft Auto V;Rockstar Games;175
+2006;Wii Sports;Nintendo;82
+2017;PUBG;PUBG Studios;75
+1985;Super Mario Bros.;Nintendo;58
+2014;Mario Kart 8;Nintendo;53
+1996;Pokémon Red/Green/Blue;Game Freak;31
+1984;Tetris;Alexey Pajitnov;100
+2004;Half-Life 2;Valve;12
+2007;Portal;Valve;4
+2011;Portal 2;Valve;9
+2015;The Witcher 3;CD Projekt Red;40
+2020;Cyberpunk 2077;CD Projekt Red;20
+2001;Halo: Combat Evolved;Bungie;5
+2004;Halo 2;Bungie;8
+2011;Terraria;Re-Logic;44
+2018;Red Dead Redemption 2;Rockstar Games;50
+1998;StarCraft;Blizzard Entertainment;11
+2004;World of Warcraft;Blizzard Entertainment;14
